@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: titanic
-        image: GerardTho/application-correction:latest
+        image: GerardTho/ensae-reproductibilite-application-correction:v1.1.0
         ports:
         - containerPort: 5000
