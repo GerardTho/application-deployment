@@ -6,7 +6,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/GerardTho/application-deployment.git
-    targetRevision: main
+    targetRevision: appli19bis
     path: deployment
   destination:
     server: https://kubernetes.default.svc
